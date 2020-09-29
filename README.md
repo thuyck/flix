@@ -18,7 +18,7 @@ Flix (I named my project Flixster) is an app that allows users to browse movies 
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://imgur.com/a/L0xs0X8.gif" width=250><br>
+<img src="https://imgur.com/bAwPfga.gif" width=250><br>
 
 ### Notes
 The only challenge I had was installing the cocoa pods. I wanted to successfully install them, so I followed the direction very carefully. Besides that formatting the cells were slightly difficult.
